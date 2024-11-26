@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "170246959813",
+    "project_id": "skateboardapp-769ed",
+    "storage_bucket": "skateboardapp-769ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170246959813:android:04fcfdef397206bb8ff6ac",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWqjHr32RjO6ATC8J-NtJQMr_3T74Ozps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
